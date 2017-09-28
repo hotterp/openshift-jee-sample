@@ -1,6 +1,6 @@
 <HTML>
 <HEAD>
-	<TITLE>JBossAS7 JSP snoop page</TITLE>
+	<TITLE>Wildfly JSP snoop page</TITLE>
 	<%@ page import="javax.servlet.http.HttpUtils,java.util.Enumeration" %>
 	<%@ page import="java.lang.management.*" %>
 	<%@ page import="java.util.*" %>
@@ -10,7 +10,7 @@
 <H1>WebApp JSP Snoop page</H1>
 <img src="images/jbosscorp_logo.png">
 
-<h2>JVM Memory Monitor</h2>
+<h2>Peters-JVM Memory Monitor</h2>
  
  
 <table border="0" width="100%">
